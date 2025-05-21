@@ -1,6 +1,7 @@
 # hypr-dotfiles
 Files for my rice of Hyprland (on Arch Linux)
-** This is a very minimalist config and chances are you're going to want to configure some of it yourself, especially your monitor settings in hyprland.config. This is also my first reposity and I don't entirely know what I'm doing, I just wanted to upload my config files to GitHub tbh.**
+**This is a very minimalist config and chances are you're going to want to configure some of it yourself, especially your monitor settings in hyprland.config. This is also my first reposity and I don't entirely know what I'm doing, I just wanted to upload my config files to GitHub tbh.**
+
 Replace your .config files with these. (`~/.config`)
 Make sure you have `wofi`, `hyprpaper`, and `waybar` installed. Also make sure you have the fonts `otf-font-awesome` and `ttf-roboto-mono` installed to display things correctly.
 
