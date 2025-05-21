@@ -1,0 +1,42 @@
+window{
+	font-size:15px;
+	font-family: "Roboto Mono Medium";
+	background-color: rgba(19, 37, 38, 0.95);
+	color: rgba(75, 204, 190, 1);
+	//border: 1px solid rgba(171, 140, 38, 0.9);
+	border-radius: 10px;
+	text-align: center;
+	
+}
+#inner-box{
+	border: 6px double rgba(230, 240, 255, 0.7);
+	border-radius: 10px;
+}
+#entry{
+	margin: auto;
+	padding: 9px;
+	background: linear-gradient(90deg, transparent, rgba(75, 204, 190, 0.1))
+	text-align: center;
+}
+#entry:selected{
+	background: linear-gradient(90deg, rgba(214, 24, 214, 0.7), transparent);
+	border: 1px solid rgba(230, 240, 255, 0.7);
+	border-radius: 5px;
+}
+#text:selected{
+	font-weight: bold;
+	font-size: 17px;
+	font-family: "Roboto Mono";
+	color: rgba(34, 227, 114, 1)
+}
+#input{
+	margin: 5px;
+	background: linear-gradient(90deg, rgba(214, 24, 214, 0.1), rgba(75, 204, 190, 0.3));
+	color: rgba(214, 24, 214, 0.7);
+	border: 2px solid rgba(230, 240, 255, 0.7);
+
+}
+image{
+	margin-right: 10px;
+}
+
