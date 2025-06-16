@@ -30,7 +30,7 @@ sudo cp -r ./electron-flags.conf "$CONFIG"
 sudo echo "Done!"
 
 read -p "Do you want to reboot now to apply changes? [y/n]" answer
-if [[$answer =~ ^[Yy]$]]; then
+if [ [$answer =~ ^[Yy]$] ]; then
 	echo "Rebooting now..."
 	systemctl reboot
 else
