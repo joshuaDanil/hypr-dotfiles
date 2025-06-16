@@ -4,7 +4,7 @@ set -e
 
 #Install essential packages
 echo "Installing essential packages..."
-sudo pacman -S hypridle hyprlock wofi waybar hyprpaper otf-font-awesome ttf-roboto-mono swaync
+sudo pacman -S hypridle hyprlock wofi waybar hyprpaper otf-font-awesome ttf-roboto-mono swaync brightnessctl
 echo "Done!"
 
 #Make directories
