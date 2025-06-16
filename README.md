@@ -3,7 +3,7 @@ Files for my rice of Hyprland (on Arch Linux). Best for laptops.
 
 **This is a fairly minimal config and chances are you're going to want to configure some of it yourself, especially `hyprland.config` and `hypridle.config`.**
 ## Installation
-Download the repository as .zip and run `install.sh`. 
+Download the repository as .zip and `cd` inside the folder (usually `cd ~/Downloads/hyprland-dotfiles-main`). Then run `./install.sh`. 
 If you want to change the wallpaper, put it in `/hypr/` and name it either `wallpaper.png` or `lockscreen.png` to use it for your desktop wallpaper or your lockscreen wallpaper. (Or change `hyprpaper.config` and `hyprlock` to whatever path you want. If your wallpaper isn't a PNG, you'll probably have to do this anyway.)
 You may want to change your idle settings in `hypridle.config`.
 # Screenshots
