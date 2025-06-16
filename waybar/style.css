@@ -62,7 +62,7 @@ button:hover {
     background-color: transparent;
     color: #19b5a4;
     border-radius: 2px;
-    font-weight: lighter;
+    font-weight: 300;
 }
 
 #workspaces button:hover {
